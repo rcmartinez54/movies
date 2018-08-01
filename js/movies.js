@@ -2,17 +2,19 @@
 $(document).ready(function() {
 
 	$(window).scroll(function() {
-		if ($(document).scrollTop() > 600) {
+		if ($(document).scrollTop() > 700) {
 			$('#popUp_footer').fadeIn(1000);
+			$('header').fadeOut(1000);
 		} else {
 			$('#popUp_footer').fadeOut(1000);
+			$('header').fadeIn(1000);
 		}
 	});
 
 });
 
-// (function () {
-// 		$('.intro h1').fadeIn(500, function () {
-// 			$('.intro h2').delay(1000).fadeIn(500);
-// 		});
-// 	})();
+// myMovies = {
+// 	"title" : "John Wick",
+// 	"posterLocation" : "img/johnWick.jpg"
+// 	"summary" : "He is an awsome hitman"
+// }

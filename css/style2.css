@@ -87,12 +87,13 @@ header img {
 
 #intro {
   background: rgba(0, 0, 0, 0.8);
-  padding: 10px 440px;
+  padding: 100px;
   text-align: center;
 }
 
 #intro .intro_img {
-  
+  float: left;
+  margin-right: 20px;
 }
 
 #intro img {
@@ -105,11 +106,20 @@ header img {
   font-size: 25px;
 }
 
-.movie p {
+.movie .poster_container {
+  float: left;
+  width: 30%;
+}
+
+.movie .summary_container {
   font-family: 'Esteban', Serif;
   font-size: 25px;
   float: right;
-  width: 50%;
+  width: 70%;
+}
+
+.movie .summary_container h2 {
+  margin-top: 0px;
 }
 
 ul {
@@ -131,7 +141,7 @@ li:nth-child(2n+2) {
 }
 
 li p {
-  margin-right: 200px;
+  margin-right: 40px;
 }
 
 #list {
@@ -161,4 +171,125 @@ footer h2 {
 #popUp_footer h2 {
   margin: 0;
   padding: 10px;
+}
+
+
+@media (max-width: 800px) {
+    header img {
+    width: 10%;
+  }
+
+  #hero {
+    padding-top: 90px;
+    height: 85vh;
+    background: url('../img/smokeLights2.jpg') fixed;
+    background-size: cover;
+  }
+
+  #hero h1 {
+    text-align: center;
+    padding-top: 300px;
+    text-transform: uppercase;
+    text-shadow: -4px 3px 20px #fff
+  }
+
+  #intro {
+    padding: 30px;
+  }
+
+  #intro .intro_img {
+    
+  }
+
+  #intro img {
+    border-radius: 50%;
+  }
+
+  #intro p {
+    color: #fff;
+    text-align: justify;
+    font-size: 25px;
+  }
+
+  .movie .summary_container {
+    font-family: 'Esteban', Serif;
+    font-size: 20px;
+    float: right;
+    width: 55%;
+  }
+
+  .movie .summary_container h2 {
+    margin-top: 0px;
+  }
+
+  li p {
+    margin-right: 40px;
+  }
+
+  footer {
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    height: 200px;
+  }
+
+  footer h2 {
+    margin: 0;
+  }
+
+  #popUp_footer {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    display: none;
+  }
+
+  #popUp_footer h2 {
+    margin: 0;
+    padding: 10px;
+  }
+}
+
+@media (max-width: 500px) {
+  header img {
+    width: 20%;
+  }
+  #hero h1 {
+    padding-top: 150px;
+  }
+  #intro p {
+    margin-top: 0px;
+  }
+  .movie .poster_container {
+    float: none;
+    width: 100%;
+    text-align: center;
+  }
+  .movie .poster_container img {
+    margin-left: 0px;
+  }
+  .movie .summary_container {
+    font-family: 'Esteban', Serif;
+    font-size: 20px;
+    float: none;
+    width: 100%;
+  }
+  .movie .summary_container h2 {
+    text-align: center;
+  }
+  li img {
+    margin-left: 36px;
+  }
+  li p {
+    margin-right: 0px;
+    text-align: justify;
+  }
+  #popUp_footer h2 {
+    margin: 0;
+    padding: 10px;
+    font-size: 22px;
+  }
+
 }
