@@ -13,8 +13,10 @@ $(document).ready(function() {
 
 });
 
-// myMovies = {
+// let myMovies = {
 // 	"title" : "John Wick",
-// 	"posterLocation" : "img/johnWick.jpg"
 // 	"summary" : "He is an awsome hitman"
 // }
+
+// let myObj = JSON.parse(myMovies);
+// document.getElementById("two .summary_container h2").innerHTML = myMovies.title;
