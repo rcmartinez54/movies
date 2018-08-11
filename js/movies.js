@@ -11,34 +11,23 @@ $(document).ready(function() {
 		}
 	});
 
-	$('button').on('click', function () {
-		$.ajax({url:"myMovies.json", success: function(result){
-			$('#ajax_test').html(result);
-		}});
-	});
+	$.ajax({
+		url:"../json/list.js",
+		dataType: "json",
+		type: 'GET'	
+	}).done(function(data) {
+			let newContent = '';
 
-});
+			newContent += '<div class="poster_container">';
+			newContent += '<img src=" ' + dataType.poster +' " />';
+			newContent += '</div>';
+			newContent += '<div class="summary_container">';
+			newContent += '<h2 ' + dataType.title + ' />';
+			newContent += '<p ' + dataType.description + ' />';
+			newContent += '/div>';
+		});
 
-// let xhr = new XMLHttpRequest();
-
-// xhr.onreadystatechange = function () {
-// 	if (xhr.readyState === 4 && xhr.status === 200) {
-// 		myMovies = JSON.parse(xhr.responseText);
-		
-// 		let $newContent = '';
-
-// 		for (var i = 0; i < myMovies.length; i += 1) {
-// 			$newContent += '<div class="poster_container">',
-// 						+= '<img src="' + myMovies.'"'
-
-// 		}
-		
-// 	} 
-// }
-
-// xhr.open('GET', 'data/myMovies.json');	
-// xhr.send(); 							
-
+});				
 
 
 
