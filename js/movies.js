@@ -11,44 +11,30 @@ $(document).ready(function() {
 		}
 	});
 
-	$.ajax({
-		url:"../json/list.js",
-		dataType: "json",
-		type: 'GET'	
-	}).done(function(data) {
-			let newContent = '';
+	$.getJSON('js/list.json', function (data) {
 
-			newContent += '<div class="poster_container">';
-			newContent += '<img src=" ' + dataType.poster +' " />';
-			newContent += '</div>';
-			newContent += '<div class="summary_container">';
-			newContent += '<h2 ' + dataType.title + ' />';
-			newContent += '<p ' + dataType.description + ' />';
-			newContent += '/div>';
-		});
+			var movieList = data.movie;
+
+			var newContent;
+
+			for (var i = 0; i < movieList.length; i++) {
+				newContent += '<li class="movie clearfix">';
+				newContent += '<div class="poster_container">';
+				newContent += '<img src="' + movieList[i].poster +'" />';
+				newContent += '</div>';
+				newContent += '<div class="summary_container clearfix">';
+				newContent += '<h2>' + movieList[i].title + '</h2>';
+				newContent += '<p>' + movieList[i].description + '</p>';
+				newContent += '</div>';
+				newContent += '</li>';
+
+				$('#list ul').append(newContent);
+			}
+
+			console.log(movieList.length);
+		
+	});
+
+	
 
 });				
-
-
-
-// let xhr = new XMLHttpRequest(); // Create XMLHttpRequest object
-
-// xhr.onload = function() {
-// 	if (xhr.status === 200) {
-// 		responseObject = JSON.parse(xhr.responseText);
-
-// 		let newContent = '';
-// 		for (var i = 0; i < responseObject.movie.length; i++) {
-// 			newContent += '<div class="poster_container">';
-// 			newContent += '<img src="' + responseObject.movie[i].poster + ' " />';
-// 			newContent += '</div>';
-// 			newContent += '<div class="summary_container">';
-// 			newContent += '<h2' + responseObject.movie[i].title + '/>';
-// 			newContent += '<p' + responseObject.movie[i].description + '/>';
-// 			newContent += '</div';
-// 		}
-
-// 		document.getElementById('one').innerHTML = newContent;
-// 	}
-// };
-
