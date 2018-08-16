@@ -1,5 +1,5 @@
 {
-	"movie": [
+	 [
 				{
 					"title": "Tears of the Sun",
 					"description": "Navy SEALS",

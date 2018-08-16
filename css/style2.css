@@ -45,46 +45,6 @@ header img {
   text-shadow: -4px 3px 20px #fff
 }
 
-.left_closed {
-  position: absolute;
-  top: 0;
-  left: -1050px;
-  display: none;
-}
-
-.left_opened {
-  position: absolute;
-  top: 0;
-  left: -1000px;
-}
-
-
-.right_closed {
-  position: absolute;
-  top: 0;
-  right: -1050px;
-  display: none;
-}
-
-.right_opened {
-  position: absolute;
-  top: 0;
-  right: -1000px;
-}
-
-.left_closed img,
-.right_closed img {
-  height: 800px;
-}
-
-.left_closed img {
-  border-bottom-right-radius: 40px;
-}
-
-.right_closed img {
-  border-bottom-left-radius: 40px;
-}
-
 #intro {
   background: rgba(0, 0, 0, 0.8);
   padding: 100px;
