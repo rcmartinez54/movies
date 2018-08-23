@@ -311,194 +311,194 @@
 			"poster": "img/menWhoStareAtGoats.jpg"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "Slumdog Millionaire",
+			"description": "A young man on India's version of 'Who Wants to be a Millionaire' and his untold story.",
+			"poster": "img/slumdog.jpg"
+		},
+		{
+			"title": "The Invention of Lying",
+			"description": "In a world where there is only truth, one man learns to say 'what isn't'.",
+			"poster": "img/inventionOfLying.jpg"
+		},
+		{
+			"title": "Law Abiding Citizen",
+			"description": "A man who had his family taken from him is tired of the injustices of the judicial system.",
+			"poster": "img/lawAbidingCitizen.jpg"
+		},
+		{
+			"title": "Dinner for Schmucks",
+			"description": "A man trying to get gain a step up in the corporate ladder must find a schuck to take to dinner.",
+			"poster": "img/schmucks.jpg"
+		},
+		{
+			"title": "Home Front",
+			"description": "A man moves to Louisiana with his daughter to escape his old life, until he has to revisit his skillset in defense of his family.",
+			"poster": "img/homefront.jpg"
+		},
+		{
+			"title": "Rango",
+			"description": "Johnny Depp as an animated Chameleon.  This was suprisingly funny!",
+			"poster": "img/rango.jpg"
+		},
+		{
+			"title": "Battle: Los Angeles",
+			"description": "The epicenter of an alien invasion ends up in Los Angeles.  A group of elite soldiers is our last hope.",
+			"poster": "img/battleLosAngeles.jpg"
+		},
+		{
+			"title": "Mud",
+			"description": "A man with a past lives as a transient on a small island in the middle of a lake.  He befriends two young boys and they enlist his help.",
+			"poster": "img/mud.jpg"
+		},
+		{
+			"title": "Red Tails",
+			"description": "This is the story of an all African-American fighter pilot squadron during WWII.",
+			"poster": "img/redTails.jpg"
+		},
+		{
+			"title": "Wanderlust",
+			"description": "A couple in need of a shake up finds themselves living on a freeloving camp.",
+			"poster": "img/wanderlust.jpg"
+		},
+		{
+			"title": "Battleship",
+			"description": "A man who finds it impossible to stay out of trouble is forced to join the Navy by way of his high ranking brother.  An alien invasion ensues and he must find a way to overcome.",
+			"poster": "img/battleship.jpg"
+		},
+		{
+			"title": "21 and Over",
+			"description": "A young man struggling to find an identity throws a party of all parties.",
+			"poster": "img/21andOver.jpg"
+		},
+		{
+			"title": "Dunkirk",
+			"description": "The story of how 400,000 allied forces get trapped with no escape in the early stages of WWII.",
+			"poster": "img/dunkirk.jpg"
+		},
+		{
+			"title": "Captain Phillips",
+			"description": "The true story of how an American shipping company ship is taken over by Somalian pirates.",
+			"poster": "img/captPhillips.jpg"
+		},
+		{
+			"title": "That Awkward Moment",
+			"description": "A group of young adults is struggling in the dating life until it all falls together somehow.",
+			"poster": "img/awkwardMoment.jpg"
+		},
+		{
+			"title": "When the Game Stands Tall",
+			"description": "A football movie with more character than I know what to do with.",
+			"poster": "img/whenTheGameStandsTall.jpg"
+		},
+		{
+			"title": "If I Stay",
+			"description": "Two young lovers are at a crossroads due to a horrific accident.",
+			"poster": "img/ifIstay.jpg"
+		},
+		{
+			"title": "The Equalizer",
+			"description": "He works at Home Depot but that wasn't his first job.",
+			"poster": "img/equalizer.jpg"
+		},
+		{
+			"title": "Fury",
+			"description": "The story of a tank and it's crew during WWII.",
+			"poster": "img/fury.jpg"
+		},
+		{
+			"title": "The Wedding Ringer",
+			"description": "When a man has zero friends for his side of the wedding party, he must hire someone who specializes in such scenarios.",
+			"poster": "img/weddingRinger.jpg"
+		},
+		{
+			"title": "Dope",
+			"description": "A hidden gem in the movie world.  A brilliant high-school kid and his friends have to navigate life when drugs enter the scenario.",
+			"poster": "img/dope.jpg"
+		},
+		{
+			"title": "McFarland, USA",
+			"description": "A struggling coach finds himself having to move to a farm town in the middle of California.  He can't ignore how talented the local kids are at running and decides to coach cross-country running.  True story.",
+			"poster": "img/mcfarland.jpg"
+		},
+		{
+			"title": "Run All Night",
+			"description": "A hitman has his son taken by an error of judgment from an trigger happy man.  He must exact his revenge.",
+			"poster": "img/runAllNight.jpg"
+		},
+		{
+			"title": "Southpaw",
+			"description": "A headstrong fighter has talent in the ring but his life has bigger problems.",
+			"poster": "img/southpaw.jpg"
+		},
+		{
+			"title": "The Man from U.N.C.L.E.",
+			"description": "An American operative meets a foreign operative and the action ensues.",
+			"poster": "img/uncle.jpg"
+		},
+		{
+			"title": "13 Hours",
+			"description": "The true story of how American heroes lost their lives fighting in Benghazi.",
+			"poster": "img/13hours.jpg"
+		},
+		{
+			"title": "War Dogs",
+			"description": "The true story of two men who were bold enough to deliver where nobody else wanted to.",
+			"poster": "img/warDogs.jpg"
+		},
+		{
+			"title": "Imperium",
+			"description": "A low level analyst gets his opportunity to work in the field by going undercover in the Arian Brotherhood.",
+			"poster": "img/imperium.jpg"
+		},
+		{
+			"title": "NEED A NEW MOVIE",
+			"description": "Something goes here.",
 			"poster": "img/.jpg"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "I Bleed for This",
+			"description": "True story of a boxer who refuses to give up even after a career ending accident.",
+			"poster": "img/bleedForThis.jpg"
+		},
+		{
+			"title": "NEED A NEW MOVIE",
+			"description": "Stuff goes here.",
 			"poster": "img/.jpg"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "Justice League: Flashpoint Paradox",
+			"description": "When Flash uses his speed to alter reality he ends up in what is known as The Flashpoint in reality.",
+			"poster": "img/JLFlashpoint.jpg"
+		},
+		{
+			"title": "Justice League: War",
+			"description": "The Justice League is at war.",
+			"poster": "img/JLWar.jpg"
+		},
+		{
+			"title": "Justice League: Doom",
+			"description": "It is the end of times for the Justice League and Batman has a plan.",
+			"poster": "img/JLDoom.jpg"
+		},
+		{
+			"title": "Miracle at St. Anna",
+			"description": "A small regiment of soldiers is put through the ringer during war and what ensues after is where the story really lies.",
+			"poster": "img/miracleAtStAnna.jpg"
+		},
+		{
+			"title": "NEED A NEW MOVIE",
+			"description": "Words go here.",
 			"poster": "img/.jpg"
 		},
 		{
-			"title": "",
-			"description": "",
+			"title": "Gone Baby Gone",
+			"description": "A child is taken",
 			"poster": "img/.jpg"
 		},
 		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
-		},
-		{
-			"title": "",
-			"description": "",
-			"poster": "img/.jpg"
+			"title": "The Brothers Bloom",
+			"description": "Two brothers help a woman get what is hers.",
+			"poster": "img/brothersBloom.jpg"
 		}
 	]
 }
