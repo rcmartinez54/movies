@@ -327,8 +327,8 @@
 		},
 		{
 			"title": "Dinner for Schmucks",
-			"description": "A man trying to get gain a step up in the corporate ladder must find a schuck to take to dinner.",
-			"poster": "img/schmucks.jpg"
+			"description": "A man trying to gain a step up in the corporate ladder must find a schuck to take to dinner.",
+			"poster": "img/schmucks.jpeg"
 		},
 		{
 			"title": "Home Front",
@@ -448,7 +448,7 @@
 		{
 			"title": "Imperium",
 			"description": "A low level analyst gets his opportunity to work in the field by going undercover in the Arian Brotherhood.",
-			"poster": "img/imperium.jpg"
+			"poster": "img/imperium.png"
 		},
 		{
 			"title": "NEED A NEW MOVIE",
