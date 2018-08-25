@@ -34,7 +34,7 @@ $(document).ready(function() {
 
 	$.getJSON('js/list.json', function (data) {
 
-			var movieList = data.movie;
+			var movieList = movie;
 
 			var newContent;
 
