@@ -31,7 +31,7 @@ $(document).ready(function() {
 	// 	});
 	// }
 
-	
+
 
 
 	$.getJSON('js/list.json', function (data) {
@@ -51,9 +51,9 @@ $(document).ready(function() {
 				newContent += '</div>';
 				newContent += '</li>';
 
-				$('#list ul').append(newContent);
 			}
 
+			$('#list ul').append(newContent);
 			console.log(movieList.length);
 		
 	});
