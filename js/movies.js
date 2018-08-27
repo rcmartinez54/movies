@@ -31,10 +31,12 @@ $(document).ready(function() {
 	// 	});
 	// }
 
+	
+
 
 	$.getJSON('js/list.json', function (data) {
 
-			var movieList = movie;
+			var movieList = data.movie;
 
 			var newContent;
 
