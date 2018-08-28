@@ -11,34 +11,13 @@ $(document).ready(function() {
 		}
 	});
 
-	// for (var i = 0; i < movieList.length; i++) {
+	$(window).scroll(function () {
+		if($(window).scrollTop() == $(document).height() - $(window).height()) {
+           $.getJSON('js/list.json', function (data) {
 
-	// 	var movieList = data.movie,
-	// 	newContent;
+			let movieList = data.movie;
 
-	// 	$.getJSON('js/list.json', function (data) {
-	// 		newContent += '<li class="movie clearfix">';
-	// 		newContent += '<div class="poster_container">';
-	// 		newContent += '<img src="' + movieList[i].poster +'" />';
-	// 		newContent += '</div>';
-	// 		newContent += '<div class="summary_container clearfix">';
-	// 		newContent += '<h2>' + movieList[i].title + '</h2>';
-	// 		newContent += '<p>' + movieList[i].description + '</p>';
-	// 		newContent += '</div>';
-	// 		newContent += '</li>';
-
-	// 		$('#list ul').append(newContent);
-	// 	});
-	// }
-
-
-
-
-	$.getJSON('js/list.json', function (data) {
-
-			var movieList = data.movie;
-
-			var newContent;
+			let newContent;
 
 			for (var i = 0; i < movieList.length; i++) {
 				newContent += '<li class="movie clearfix">';
@@ -54,9 +33,13 @@ $(document).ready(function() {
 			}
 
 			$('#list ul').append(newContent);
-			console.log(movieList.length);
+			
 		
+			});
+    	}
 	});
+
+	
 
 	
 
