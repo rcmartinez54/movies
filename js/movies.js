@@ -11,36 +11,56 @@ $(document).ready(function() {
 		}
 	});
 
-	$(window).scroll(function () {
-		if($(window).scrollTop() == $(document).height() - $(window).height()) {
-           $.getJSON('js/list.json', function (data) {
+	
 
-			let movieList = data.movie;
 
-			let newContent;
+	// function once(fn, context) { 
+	// 	var result;
 
-			for (var i = 0; i < movieList.length; i++) {
-				newContent += '<li class="movie clearfix">';
-				newContent += '<div class="poster_container">';
-				newContent += '<img src="' + movieList[i].poster +'" />';
-				newContent += '</div>';
-				newContent += '<div class="summary_container clearfix">';
-				newContent += '<h2>' + movieList[i].title + '</h2>';
-				newContent += '<p>' + movieList[i].description + '</p>';
-				newContent += '</div>';
-				newContent += '</li>';
+	// 	return function() { 
+	// 		if(fn) {
+	// 			result = fn.apply(context || this, arguments);
+	// 			fn = null;
+	// 		}
 
-			}
+	// 		return result;
+	// 	};
+	// }
 
-			$('#list ul').append(newContent);
-			
+	// // Usage
+	// var canOnlyFireOnce = once(function() {
+	// 	alert('motherfucker');
+	// });
+
+	// canOnlyFireOnce();
+
+	// if($(window).scrollTop() == $(document).height() - $(window).height()) {}
+
+
+	// $(window).scroll(function () {});
 		
-			});
-    	}
-	});
+   $.getJSON('js/list.json', function (data) {
+
+	let movieList = data.movie;
+
+	let newContent;
+
+	for (var i = 0; i < movieList.length; i++) {
+		newContent += '<li class="movie clearfix">';
+		newContent += '<div class="poster_container">';
+		newContent += '<img src="' + movieList[i].poster +'" />';
+		newContent += '</div>';
+		newContent += '<div class="summary_container clearfix">';
+		newContent += '<h2>' + movieList[i].title + '</h2>';
+		newContent += '<p>' + movieList[i].description + '</p>';
+		newContent += '</div>';
+		newContent += '</li>';
+
+	}
+
+	$('#list ul').append(newContent);
 
 	
-
-	
+	});	
 
 });				
