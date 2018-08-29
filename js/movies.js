@@ -2,42 +2,15 @@
 $(document).ready(function() {
 
 	$(window).scroll(function() {
-		if ($(document).scrollTop() > 700) {
-			$('#popUp_footer').fadeIn(1000);
+		if ($(document).scrollTop() > 900) {
 			$('header').fadeOut(1000);
+			$('#popUp_header').fadeIn(3000);
 		} else {
-			$('#popUp_footer').fadeOut(1000);
+			$('#popUp_header').fadeOut(1000);
 			$('header').fadeIn(1000);
 		}
 	});
 
-	
-
-
-	// function once(fn, context) { 
-	// 	var result;
-
-	// 	return function() { 
-	// 		if(fn) {
-	// 			result = fn.apply(context || this, arguments);
-	// 			fn = null;
-	// 		}
-
-	// 		return result;
-	// 	};
-	// }
-
-	// // Usage
-	// var canOnlyFireOnce = once(function() {
-	// 	alert('motherfucker');
-	// });
-
-	// canOnlyFireOnce();
-
-	// if($(window).scrollTop() == $(document).height() - $(window).height()) {}
-
-
-	// $(window).scroll(function () {});
 		
    $.getJSON('js/list.json', function (data) {
 
@@ -53,6 +26,7 @@ $(document).ready(function() {
 		newContent += '<div class="summary_container clearfix">';
 		newContent += '<h2>' + movieList[i].title + '</h2>';
 		newContent += '<p>' + movieList[i].description + '</p>';
+		newContent += '<span><i>' + movieList[i].cast + '</i></span>';
 		newContent += '</div>';
 		newContent += '</li>';
 
