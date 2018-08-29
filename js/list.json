@@ -2,62 +2,62 @@
 	"movie": [
 		{
 			"title": "Tears of the Sun",
-			"description": "Navy SEALS",
+			"description": "Navy SEALs tasked to save a doctor in Nigeria during a dangerous time.  There is more at stake than just the doctor's safety.",
 			"poster": "img/Tears_of_the_Sun_movie.jpg"
 		},
 		{
 			"title": "John Wick",
-			"description": "Hitman",
+			"description": "A man attempting to live a normal life after being the most feared hitman.  Never mess with a man's dog.",
 			"poster": "img/john_wick.jpg"
 		},
 		{
 			"title": "John Wick 2",
-			"description": "He is back!",
+			"description": "He is back to repay a debt only to find out he is worth more dead.",
 			"poster": "img/wick2.jpg"
 		},
 		{
 			"title": "Kung Fu Hustle",
-			"description": "Karate",
+			"description": "A wannabe gangster aspires to join the notorious 'Axe Gang'.  Things go differently as he finds refuge in a small, poor village.",
 			"poster": "img/kungFuHustle.jpg"
 		},
 		{
 			"title": "Warrior",
-			"description": "Brothers fight",
+			"description": "Two brothers go down different paths only to meet again many years down the road, in an octagon.",
 			"poster": "img/warrior.jpg"
 		},
 		{
 			"title": "The Fighter",
-			"description": "Brothers box",
+			"description": "Based on Micky Ward who is trying to be his own man and not his older brother's kid brother.",
 			"poster": "img/theFighter.jpg"
 		},
 		{
 			"title": "Mr. Right",
-			"description": "Hitman meets woman",
+			"description": "She has trouble meeting men, especially good men.  She finally finds what she is looking for but he has one major red flag, he is a hitman.",
 			"poster": "img/mrRight.jpg"
 		},
 		{
 			"title": "Leon the Professional",
-			"description": "Hitman who lets a little girl into his heart",
+			"description": "Hitman who lets a little girl into his heart after her family is murdered.",
 			"poster": "img/leon.jpeg"
 		},
 		{
 			"title": "Love and Other Drugs",
-			"description": "Pharmacy rep is the first to sell Viagra",
+			"description": "She has Parkinson's Disease.  He works for Pfizer.  They become friends (and much more) as he becomes the Viagra king.",
 			"poster": "img/otherDrugs.jpeg"
 		},
 		{
 			"title": "Django: Unchained",
-			"description": "A free black man and a dentist",
+			"description": "A free black man is on a mission to find and free his wife who had been taken into slavery.  A chance encounter with a bounty hunter helps his odds.",
 			"poster": "img/django.jpg"
 		},
 		{
 			"title": "Apocalypto",
-			"description": "The Americas before any ship had landed",
+			"description": "The Americas before any ship had landed.  The Mayans are on a mission to put an end to their decline by offering up sacrifices and those sacrifices had to come from somewhere...",
 			"poster": "img/apocalypto.jpg"
 		},
 		{
 			"title": "Layer Cake",
-			"description": "A movie about the drug trade",
+			"description": "A highly successful cocaine dealer on the verge of retirement is given two jobs that seem to be setting him up for failure.",
 			"poster": "img/layerCake.jpg"
 		},
 		{
@@ -67,62 +67,62 @@
 		},
 		{
 			"title": "Lock, Stock, and Two Smoking Barrels",
-			"description": "A silly take on the underbelly of the British streets",
+			"description": "A card game gone wrong has factions from every part of town out for the same goal: money, weed, and antique shotguns.",
 			"poster": "img/lockStock.jpg"
 		},
 		{
 			"title": "The Way Way Back",
-			"description": "A boy on vaction with his family for the summer",
+			"description": "A boy struggling to find himself goes on vaction with his family for the summer.  He finds himself an unlikely new friend and a new crush.",
 			"poster": "img/wayWayBack.jpg"
 		},
 		{
 			"title": "Immortals",
-			"description": "A mortal who is so much more than he knows",
+			"description": "A mortal who is so much more than he knows.  He is tasked by Zeus to be the champion for mankind.",
 			"poster": "img/immortals.jpg"
 		},
 		{
 			"title": "Machine Gun Preacher",
-			"description": "A man with a bad past travels to Africa",
+			"description": "A man with a bad past travels to Sudan with a new outlook on life.  He becomes the protector of children being forced to become soldiers.",
 			"poster": "img/machineGunPreacher.jpg"
 		},
 		{
 			"title": "The Prestige",
-			"description": "Two men, using magic, try to best one another",
+			"description": "Two men, using magic, try to best one another.  This movie has a twist that you don't want to miss.",
 			"poster": "img/prestige.jpg"
 		},
 		{
 			"title": "Snatch",
-			"description": "Mafia, gypsies, alcohol and bare knuckle boxing",
+			"description": "Gansters, gypsies, alcohol and bare knuckle boxing.",
 			"poster": "img/snatch.jpg"
 		},
 		{
 			"title": "Crazy, Stupid, Love",
-			"description": "A man going through a divorce meets his new mentor at a bar",
+			"description": "A man going through a divorce meets his new mentor at a bar.",
 			"poster": "img/crazyStupidLove.jpg"
 		},
 		{
 			"title": "Ip Man",
-			"description": "A martial arts master refuses to teach, until the war",
+			"description": "A wealthy martial arts master refuses to teach Wing Chun, until the Japanese invade China in 1937 and his people need his help.  Master Ip is the real-life master to Bruce Lee.",
 			"poster": "img/ipMan.jpg"
 		},
 		{
 			"title": "Ip Man 2",
-			"description": "The next Ip Man movie",
+			"description": "Ip Man moves to Hong Kong after the war in 1949 and begins formally teaching students Wing Chun martial arts.",
 			"poster": "img/ipMan2.jpg"
 		},
 		{
 			"title": "Ip Man 3",
-			"description": "The one after the next one",
+			"description": "A group of gansters are attempting to cause chaos and take over a martial arts school in Hong Kong.  Ip Man must take a stand.",
 			"poster": "img/ipMan3.jpg"
 		},
 		{
 			"title": "The Hunt for the Wilderpeople",
-			"description": "The guy from Jurassic Park in nature with an overwieght Australian kid",
+			"description": "The guy from Jurassic Park lost in nature with an overwieght Australian kid",
 			"poster": "img/wilderpeople.jpg"
 		},
 		{
 			"title": "Sicario",
-			"description": "The world of the Cartel and those trying to stop them",
+			"description": "There is a war against drugs at the border of the United States and Mexico and an agent has the job of trying to win it.",
 			"poster": "img/sicario.jpg"
 		},
 		{
@@ -136,8 +136,8 @@
 			"poster": "img/straightOuttaCompton.jpg"
 		},
 		{
-			"title": "Me, Earl, and the Dying Girl",
-			"description": "Two young boys befriend a sick girl",
+			"title": "Me and Earl and the Dying Girl",
+			"description": "Two young boys wo enjoy making homemade parodies of movies befriend a sick girl",
 			"poster": "img/meEarlAndTheDyingGirl.jpg"
 		},
 		{
@@ -152,7 +152,7 @@
 		},
 		{
 			"title": "Logan",
-			"description": "The absolute very best rendition of Wolverine",
+			"description": "Logan, also known as the Wolverine, has lived for centuries only now something is killing him.  The absolute very best rendition of Wolverine",
 			"poster": "img/logan.jpg"
 		},
 		{
@@ -167,22 +167,22 @@
 		},
 		{
 			"title": "Passengers",
-			"description": "A ship full of people traveling to colonize a new planet, one of them wakes up too early.",
+			"description": "A ship full of people traveling to colonize a new planet, one of them wakes up too early and doesn't want to do it alone.",
 			"poster": "img/passengers.jpg"
 		},
 		{
 			"title": "Lawless",
-			"description": "Three brothers make and run moonshine.",
+			"description": "Set in the depression-era, three brothers from Virginia make and run moonshine.  A new Special Deputy squeezes them for his cut.",
 			"poster": "img/lawless.jpg"
 		},
 		{
 			"title": "Get a Job",
-			"description": "Two young people find themselves jobless with no future in sight",
+			"description": "Two young people find themselves jobless after college with no future in sight.",
 			"poster": "img/getAjob.jpg"
 		},
 		{
 			"title": "End of Watch",
-			"description": "Two partners working a beat in the worst part of Los Angeles",
+			"description": "Two partners working a beat in the worst part of Los Angeles find themselves at odds with the biggest gang in LA.",
 			"poster": "img/endOfWatch.jpg"
 		},
 		{
@@ -192,7 +192,7 @@
 		},
 		{
 			"title": "The Greatest Game Ever Played",
-			"description": "The story of Francis Ouimet and how he became a golfer",
+			"description": "The story of Francis Ouimet and how he became an iconic golfer",
 			"poster": "img/greatestGame.jpg"
 		},
 		{
@@ -202,17 +202,17 @@
 		},
 		{
 			"title": "I Love You, Man",
-			"description": "A groom with no friends for his wedding, finds a new friend",
+			"description": "A groom with no friends for his wedding finds a new friend but it is putting a strain on his relationship.",
 			"poster": "img/iLoveYouMan.jpg"
 		},
 		{
 			"title": "Lets Be Cops",
-			"description": "Halloween costumes go way too far.",
+			"description": "Costume party costumes go way too far as two men find themselves entangled in real police matters.",
 			"poster": "img/letsBeCops.jpg"
 		},
 		{
 			"title": "Accepted",
-			"description": "Can't get into college? No problem.",
+			"description": "Can't get into college? No problem.  An underachieving high-school student finds himself on the outside looking in when it comes to attending college.  So he creates his own.",
 			"poster": "img/accepted.jpg"
 		},
 		{
@@ -227,7 +227,7 @@
 		},
 		{
 			"title": "Miracle",
-			"description": "The true story of how the Americans beat the Soviets at Lake Placid.",
+			"description": "The true story of how the U.S. Olympic Hockey team beat the Soviets at Lake Placid in 1980.",
 			"poster": "img/miracle.jpg"
 		},
 		{
@@ -252,12 +252,12 @@
 		},
 		{
 			"title": "Blood and Bone",
-			"description": "Come and experience the underworld of prized fist fights.",
+			"description": "Straight out of prison and on to the streets of Los Angeles, a man is out to fullfil a promise and it is by way of the world of underground street fights.",
 			"poster": "img/bloodAndBone.jpg"
 		},
 		{
 			"title": "The Hunted",
-			"description": "The creation of expert trackers and even better killers",
+			"description": "A highly skilled assassin has made a sport of hunting humans.  The FBI has tasked one man to hunt him down but who is hunting who?",
 			"poster": "img/theHunted.jpg"
 		},
 		{
@@ -267,17 +267,17 @@
 		},
 		{
 			"title": "War Horse",
-			"description": "The story of a man and his horse while at war.",
+			"description": "A boy and his horse are separated once his horse is sold off to the cavalry during WWI.  He must be reunited with his horse even if it means joining the war efforts.",
 			"poster": "img/warHorse.jpeg"
 		},
 		{
 			"title": "Max",
-			"description": "A young boy loses his brother due to the war.  He inherits his brothers service dog.",
+			"description": "A young boy loses his brother due to the war.  He inherits his brothers service dog who is not dealing with the loss well either.",
 			"poster": "img/max.jpg"
 		},
 		{
-			"title": "The Gaurdian",
-			"description": "A man with an attitude strives to become a rescue swimmer",
+			"title": "The Guardian",
+			"description": "A man with a chip on his shoulder because he is a high school swim champion joins the Coast Guard to be a rescue swimmer.",
 			"poster": "img/theGuardian.jpg"
 		},
 		{
@@ -287,7 +287,7 @@
 		},
 		{
 			"title": "Reign Over Me",
-			"description": "Adam Sandler outside of his normal schtick.",
+			"description": "Too many people lost a family member during the September 11th attack on the World Trade Center, this is the story of one man's aftermath.",
 			"poster": "img/reignOverMe.jpeg"
 		},
 		{
@@ -297,17 +297,17 @@
 		},
 		{
 			"title": "Charlie Bartlett",
-			"description": "A young school boy gains popularity through drugs.",
+			"description": "A young school boy gains popularity after appointing himself a psychiatrist to his peers.",
 			"poster": "img/charlieBartlett.jpg"
 		},
 		{
 			"title": "Paper Towns",
-			"description": "A small boy has a new neighbor and he is smitten.  As they grow older, they grow apart, then somehow back together again.",
+			"description": "A small boy has a new neighbor and he is smitten.  As they grow older, they grow apart until she disappears and leaves clues for someone to find her.",
 			"poster": "img/paperTowns.jpg"
 		},
 		{
 			"title": "The Men Who Stare At Goats",
-			"description": "The military's infamous testing of how drugs can help them.",
+			"description": "A reporter sent to Iraq finds the story of a lifetime when he meets a man who claims to be part of a unit that used their paranormal skills in their missions.",
 			"poster": "img/menWhoStareAtGoats.jpg"
 		},
 		{
@@ -322,32 +322,32 @@
 		},
 		{
 			"title": "Law Abiding Citizen",
-			"description": "A man who had his family taken from him is tired of the injustices of the judicial system.",
+			"description": "A man who had his family taken from him is tired of the injustices of the judicial system after one of the killers is set free due to a plea bargain.",
 			"poster": "img/lawAbidingCitizen.jpg"
 		},
 		{
 			"title": "Dinner for Schmucks",
-			"description": "A man trying to gain a step up in the corporate ladder must find a schuck to take to dinner.",
+			"description": "A man trying to gain a step up in the corporate ladder must find a schmuck to take to dinner.",
 			"poster": "img/schmucks.jpeg"
 		},
 		{
-			"title": "Home Front",
+			"title": "Homefront",
 			"description": "A man moves to Louisiana with his daughter to escape his old life, until he has to revisit his skillset in defense of his family.",
 			"poster": "img/homefront.jpg"
 		},
 		{
 			"title": "Rango",
-			"description": "Johnny Depp as an animated Chameleon.  This was suprisingly funny!",
+			"description": "A pet chameleon falls out of a car in the middle of the desert during a family move.  He finds himself in the lawless town of Dirt and Dirt needs a new Sheriff.  Johnny Depp as an animated Chameleon.  This was suprisingly funny!",
 			"poster": "img/rango.jpg"
 		},
 		{
-			"title": "Battle: Los Angeles",
-			"description": "The epicenter of an alien invasion ends up in Los Angeles.  A group of elite soldiers is our last hope.",
+			"title": "Battle Los Angeles",
+			"description": "The epicenter of an alien invasion ends up in Los Angeles.  A squad of Marines is our last hope.",
 			"poster": "img/battleLosAngeles.jpg"
 		},
 		{
 			"title": "Mud",
-			"description": "A man with a past lives as a transient on a small island in the middle of a lake.  He befriends two young boys and they enlist his help.",
+			"description": "A man with a past lives as a transient on a small island in the middle of a lake.  He befriends two young boys and he enlists their help.",
 			"poster": "img/mud.jpg"
 		},
 		{
@@ -357,7 +357,7 @@
 		},
 		{
 			"title": "Wanderlust",
-			"description": "A couple in need of a shake up finds themselves living on a freeloving camp.",
+			"description": "A couple in need of a shake up after finding themselves unemployed finds themselves living on a freeloving camp.",
 			"poster": "img/wanderlust.jpg"
 		},
 		{
@@ -367,7 +367,7 @@
 		},
 		{
 			"title": "21 and Over",
-			"description": "A young man struggling to find an identity throws a party of all parties.",
+			"description": "A young man with the weight of his upcoming medical school interview on his shoulders decides to party with his two best friends the night before.",
 			"poster": "img/21andOver.jpg"
 		},
 		{
@@ -377,7 +377,7 @@
 		},
 		{
 			"title": "Captain Phillips",
-			"description": "The true story of how an American shipping company ship is taken over by Somalian pirates.",
+			"description": "The true story of how an American shipping company ship, the MV Maersk Alabama is taken over by Somalian pirates.",
 			"poster": "img/captPhillips.jpg"
 		},
 		{
@@ -387,7 +387,7 @@
 		},
 		{
 			"title": "When the Game Stands Tall",
-			"description": "A football movie with more character than I know what to do with.",
+			"description": "De Le Salle high school had a run with mediocrity until coach Bob Ladouceur took them on a 151 game win streak.",
 			"poster": "img/whenTheGameStandsTall.jpg"
 		},
 		{
@@ -402,7 +402,7 @@
 		},
 		{
 			"title": "Fury",
-			"description": "The story of a tank and it's crew during WWII.",
+			"description": "The tale of a storied tank commander and his crew during WWII as they traverse through Germany.",
 			"poster": "img/fury.jpg"
 		},
 		{
@@ -422,7 +422,7 @@
 		},
 		{
 			"title": "Run All Night",
-			"description": "A hitman has his son taken by an error of judgment from an trigger happy man.  He must exact his revenge.",
+			"description": "A mobb boss and his friend, the hitman for the mobb, each have sons.  One son dies and the boss blames it on the other.  The hitman must choose if he sides with his son or his best friend who wants the son dead.",
 			"poster": "img/runAllNight.jpg"
 		},
 		{
@@ -432,7 +432,7 @@
 		},
 		{
 			"title": "The Man from U.N.C.L.E.",
-			"description": "An American operative meets a foreign operative and the action ensues.",
+			"description": "An American CIA agent and a KGB operative join forces to stop a nuclear threat.",
 			"poster": "img/uncle.jpg"
 		},
 		{
@@ -442,7 +442,7 @@
 		},
 		{
 			"title": "War Dogs",
-			"description": "The true story of two men who were bold enough to deliver where nobody else wanted to.",
+			"description": "The true story of two men who won a contract from the Pentagon by being bold enough to deliver arms to America's allies where nobody else wanted to.",
 			"poster": "img/warDogs.jpg"
 		},
 		{
@@ -451,13 +451,13 @@
 			"poster": "img/imperium.png"
 		},
 		{
-			"title": "NEED A NEW MOVIE",
-			"description": "Something goes here.",
-			"poster": "img/.jpg"
+			"title": "Restrepo",
+			"description": "This is the real life documentary about Juan Restrepo and the men stationed in the Korengal Valley in Afghanistan.  VIEWER DISCRETION ADVISED",
+			"poster": "img/restrepo.jpg"
 		},
 		{
 			"title": "I Bleed for This",
-			"description": "True story of a boxer who refuses to give up even after a career ending accident.",
+			"description": "True story of boxer, Vinny Pazienza, who refuses to give up even after a career ending accident.",
 			"poster": "img/bleedForThis.jpg"
 		},
 		{
@@ -467,22 +467,22 @@
 		},
 		{
 			"title": "Justice League: Flashpoint Paradox",
-			"description": "When Flash uses his speed to alter reality he ends up in what is known as The Flashpoint in reality.",
+			"description": "When Flash finds himself in an altered reality he teams up with that realities versions of the Justice League members to fix his reality and get back home.",
 			"poster": "img/JLFlashpoing.jpg"
 		},
 		{
 			"title": "Justice League: War",
-			"description": "The Justice League is at war.",
+			"description": "The Justice League is at war against an alien invasion.",
 			"poster": "img/JLWar.jpg"
 		},
 		{
 			"title": "Justice League: Doom",
-			"description": "It is the end of times for the Justice League and Batman has a plan.",
+			"description": "Batman keeps files of all the members of the Justice League and their weaknesses just in case they go rogue.  Vandal Savage has obtained those files and isn't afraid to use them.",
 			"poster": "img/JLDoom.jpg"
 		},
 		{
 			"title": "Miracle at St. Anna",
-			"description": "A small regiment of soldiers is put through the ringer during war and what ensues after is where the story really lies.",
+			"description": "A small regiment of African-American soldiers is put through the ringer in a Tuscan village during war and what ensues after is where the story really lies.",
 			"poster": "img/miracleAtStAnna.jpg"
 		},
 		{
@@ -492,12 +492,12 @@
 		},
 		{
 			"title": "Gone Baby Gone",
-			"description": "A child is taken",
-			"poster": "img/.jpg"
+			"description": "A child is kidnapped and two detectives have to find her but it puts them in a place where it is affecting them personally and professionally.",
+			"poster": "img/goneBabyGone.jpg"
 		},
 		{
 			"title": "The Brothers Bloom",
-			"description": "Two brothers help a woman get what is hers.",
+			"description": "The worlds two best con men are brothers and their last job is to take from an heiress.  But first a trip of a lifetime!",
 			"poster": "img/brothersBloom.jpg"
 		}
 	]
