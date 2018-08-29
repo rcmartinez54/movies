@@ -12,8 +12,7 @@ body {
 }
 
 #content_wrap {
-  margin-left: 100px;
-  margin-right: 100px;
+  
 }
 
 h1,h2,h3 {
@@ -151,25 +150,58 @@ footer span {
   left: 0;
   width: 100%;
   text-align: center;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(255, 255, 255, 0.9);
+  font-family: 'Oswald', Sans-Serif;
+  display: none;
 }
 
 #popUp_footer p {
-  color: #fff;
+  color: #000;
   float: left;
-  padding-top: 40px;
+  padding-top: 30px;
   padding-left: 420px;
 }
 
 #popUp_footer span {
   float: left;
-  color: #fff;
+  color: #000;
   cursor: pointer;
+  margin-left: 20px;
 }
 
 #popUp_footer img {
   width: 20%;
   float: left;
+}
+
+#popUp_footer2 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background: rgba(219, 0, 0, 1.0);
+  font-family: 'Oswald', Sans-Serif;
+  display: none;
+}
+
+#popUp_footer2 p {
+  color: #fff;
+  float: left;
+  padding-top: 30px;
+  padding-left: 420px;
+}
+
+#popUp_footer2 img {
+  width: 20%;
+  float: left;
+}
+
+#popUp_footer2 span {
+  float: left;
+  color: #fff;
+  cursor: pointer;
+  margin-left: 20px;
 }
 
 

@@ -9,6 +9,27 @@ $(document).ready(function() {
 			$('#popUp_header').fadeOut(1000);
 			$('header').fadeIn(1000);
 		}
+
+		if($(document).scrollTop() > 2500) {
+			$('#popUp_footer').fadeIn(1000);
+		}
+
+		if($(document).scrollTop() > 6500) {
+			$('#popUp_footer2').fadeIn(1000);
+		}
+
+	});
+
+	$('#popUp_footer span').on('click', function () {
+		$('#popUp_footer').fadeOut(500, function () {
+			$(this).remove();
+		});
+	});
+
+	$('#popUp_footer2 span').on('click', function () {
+		$('#popUp_footer2').fadeOut(500, function () {
+			$(this).remove();
+		});
 	});
 
 		
