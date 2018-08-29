@@ -206,8 +206,12 @@ footer span {
 
 
 @media (max-width: 800px) {
-    header img {
+  header img {
     width: 10%;
+  }
+
+  #popUp_header h2 {
+    font-size: 30px;
   }
 
   #hero {
@@ -219,7 +223,7 @@ footer span {
 
   #hero h1 {
     text-align: center;
-    padding-top: 300px;
+    padding-top: 10px;
     text-transform: uppercase;
     text-shadow: -4px 3px 20px #fff
   }
@@ -237,7 +241,7 @@ footer span {
   }
 
   #intro p {
-    color: #fff;
+    color: #000;
     text-align: justify;
     font-size: 25px;
   }
@@ -260,32 +264,45 @@ footer span {
   footer {
     background: rgba(0, 0, 0, 0.5);
     text-align: center;
-    height: 200px;
   }
 
   footer h2 {
     margin: 0;
   }
 
-  #popUp_footer {
-    position: fixed;
-    bottom: 0;
-    background: rgba(0, 0, 0, 0.7);
-    width: 100%;
-    text-align: center;
-    color: #fff;
-    display: none;
+  #popUp_footer p {
+    color: #000;
+    float: left;
+    padding-top: 0px;
+    padding-left: 100px;
   }
 
-  #popUp_footer h2 {
-    margin: 0;
-    padding: 10px;
+  #popUp_footer img {
+    width: 20%;
+    float: left;
   }
+
+  #popUp_footer2 p {
+    color: #fff;
+    float: left;
+    padding-top: 0px;
+    padding-left: 100px;
+  }
+
+  #popUp_footer2 img {
+    width: 20%;
+    float: left;
+  }
+
+  
 }
 
 @media (max-width: 500px) {
   header img {
     width: 20%;
+  }
+  #popUp_header h2 {
+    font-size: 25px;
   }
   #hero {
     background: #fff;
@@ -295,7 +312,7 @@ footer span {
   }
   #intro p {
     margin-top: 0px;
-    color: #fff;
+    color: #000;
   }
   .movie .poster_container {
     float: none;
@@ -321,10 +338,43 @@ footer span {
     margin-right: 0px;
     text-align: justify;
   }
-  #popUp_footer h2 {
-    margin: 0;
-    padding: 10px;
-    font-size: 22px;
+
+  #popUp_footer p {
+    color: #000;
+    float: none;
+    padding-top: 0px;
+    padding-left: 0px;
+  }
+
+  #popUp_footer span {
+    float: left;
+    color: #000;
+    cursor: pointer;
+    margin-left: 20px;
+  }
+
+  #popUp_footer img {
+    width: 60%;
+    float: none;
+  }
+
+  #popUp_footer2 p {
+    color: #fff;
+    float: none;
+    padding-top: 0px;
+    padding-left: 0px;
+  }
+
+  #popUp_footer2 img {
+    width: 60%;
+    float: none;
+  }
+
+  #popUp_footer2 span {
+    float: left;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 20px;
   }
 
 }
