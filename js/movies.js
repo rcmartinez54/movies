@@ -3,19 +3,22 @@ $(document).ready(function() {
 
 	$(window).scroll(function() {
 		if ($(document).scrollTop() > 900) {
-			$('header').fadeOut(1000);
-			$('#popUp_header').fadeIn(3000);
+			$('header').fadeOut(500, function () {
+				$('#popUp_header').fadeIn(500);	
+			});
+			
 		} else {
-			$('#popUp_header').fadeOut(1000);
-			$('header').fadeIn(1000);
+			$('#popUp_header').fadeOut(500, function () {
+				$('header').fadeIn(500);	
+			});
 		}
 
 		if($(document).scrollTop() > 2500) {
-			$('#popUp_footer').fadeIn(1000);
+			$('#popUp_footer').fadeIn(500);
 		}
 
-		if($(document).scrollTop() > 6500) {
-			$('#popUp_footer2').fadeIn(1000);
+		if($(document).scrollTop() > 6500 && !$('#popUp_footer').is(':visible')) {
+			$('#popUp_footer2').fadeIn(500);
 		}
 
 	});
@@ -37,7 +40,7 @@ $(document).ready(function() {
 
 	let movieList = data.movie;
 
-	let newContent;
+	let newContent = '';
 
 	for (var i = 0; i < movieList.length; i++) {
 		newContent += '<li class="movie clearfix">';
